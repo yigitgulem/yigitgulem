@@ -1,4 +1,4 @@
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/l1J9Kauhqh6BsVK80" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/mashable-intel-chris-lee-l1J9Kauhqh6BsVK80">via GIPHY</a></p>
+[![MasterHead]([https://giphy.com/gifs/mashable-intel-chris-lee-l1J9Kauhqh6BsVK80]
 
 👋 Hey there! I'm Eren Yiğit Gülem, an enthusiastic explorer in the world of image processing and artificial intelligence. 🚀
 
