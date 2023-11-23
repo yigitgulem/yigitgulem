@@ -1,3 +1,5 @@
+https://media.licdn.com/dms/image/D5616AQFcN16R6zQ1Xg/profile-displaybackgroundimage-shrink_350_1400/0/1699856405831?e=1706140800&v=beta&t=A9bhxdD1g3B883TiaFmzWcNrhDsCY-pIg6EBWPk1M6Q
+
 👋 Hey there! I'm Eren Yiğit Gülem, an enthusiastic explorer in the world of image processing and artificial intelligence. 🚀
 
 My journey is all about diving deep into the fascinating realms of CNNs, YOLO, ResNet, and other cutting-edge models. 🤖 I love experimenting with these technologies, always eager to see how far I can push the boundaries.
