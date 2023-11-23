@@ -1,4 +1,4 @@
-https://media.licdn.com/dms/image/D5616AQFcN16R6zQ1Xg/profile-displaybackgroundimage-shrink_350_1400/0/1699856405831?e=1706140800&v=beta&t=A9bhxdD1g3B883TiaFmzWcNrhDsCY-pIg6EBWPk1M6Q
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/l1J9Kauhqh6BsVK80" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/mashable-intel-chris-lee-l1J9Kauhqh6BsVK80">via GIPHY</a></p>
 
 👋 Hey there! I'm Eren Yiğit Gülem, an enthusiastic explorer in the world of image processing and artificial intelligence. 🚀
 
