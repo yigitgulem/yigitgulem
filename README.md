@@ -19,9 +19,6 @@ It's a lofty goal, but hey, why not aim for the stars? 🌌
 I'm a person of many interests – never just one thing. I believe in exploring every avenue, 
 constantly evolving, and embracing the multifaceted nature of technology and life. 
 
-Stay tuned to see where this exciting path takes me. Let's make the future amazing together! ✨
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yigit-gulem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yigit-gulem" height="30" width="40" /></a>
